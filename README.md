@@ -1,1 +1,3 @@
-# restaurant-rating-predictor
+# Predicting Restaurant Ratings
+
+The ratings a restaurant receives can depend on a multitude of factors. While typical factors like food quality and service seem quite obvious, other factors like price and the variety of food offered may take lower precedence when accounting for their effect on the rating a restaurant receives. This model aims to understand the relationships between various features and the rating given to a restaurant. While it may seem farfetched to think features like the number of cuisines a restaurant offers can affect the rating that the restaurant receives, the model I have built aims to create a holistic approach to making accurate predictions that consider a variety of factors while mitigating ones that aren't relevant. This could enable restaurateurs to better curate their menus and pricing to attract higher ratings and create more successful restaurants.
